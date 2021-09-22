@@ -1,6 +1,6 @@
 # pokedex
 
-Application For Test Sprout Digital Labs
+Application For Sprout Digital Labs Test
 
 ## Getting Started
 
